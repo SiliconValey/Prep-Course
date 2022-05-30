@@ -1,0 +1,40 @@
+#thirdDiv {
+    text-align: center;
+    width: "500px";
+    height: "600px"; 
+    padding: 50px;
+    border: 20px solid rgb(141, 86, 41);
+}
+#spanId {                           /* # cuando es ID */
+    display: flex;
+    justify-content: center;
+    
+}
+
+.spanClass {                        /* . cuando es clase*/
+    display: flex;
+    justify-content: center;
+}
+
+.divClass {
+    font-size: 18px;
+    margin: 50px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+#imagen_fondo {
+    background-image: url(./Doom.jpg);
+   
+}
